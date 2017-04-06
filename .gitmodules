@@ -1,0 +1,32 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = krogoth
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = krogoth
+[submodule "meta-fsl-arm"]
+	path = meta-fsl-arm
+	url = https://github.com/Freescale/meta-fsl-arm.git
+	branch = krogoth
+[submodule "meta-freescale-3rdparty"]
+	path = meta-freescale-3rdparty
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+	branch = krogoth
+[submodule "meta-freescale-distro"]
+	path = meta-freescale-distro
+	url = https://github.com/Freescale/meta-freescale-distro.git
+	branch = krogoth
+[submodule "roj-community-bsp-base"]
+	path = roj-community-bsp-base
+	url = https://github.com/ROJ-ITALY/roj-community-bsp-base.git
+	branch = krogoth
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = krogoth
+[submodule "meta-roj-platform"]
+	path = meta-roj-platform
+	url = https://github.com/ROJ-ITALY/meta-roj-platform.git
+	branch = krogoth
