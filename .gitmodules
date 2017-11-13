@@ -1,0 +1,48 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = morty
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = morty
+[submodule "meta-freescale"]
+	path = meta-freescale
+	url = git://git.yoctoproject.org/meta-freescale.git
+	branch = morty
+[submodule "meta-freescale-3rdparty"]
+	path = meta-freescale-3rdparty
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+	branch = morty
+[submodule "meta-freescale-distro"]
+	path = meta-freescale-distro
+	url = https://github.com/Freescale/meta-freescale-distro.git
+	branch = morty
+[submodule "fsl-community-bsp-base"]
+	path = fsl-community-bsp-base
+	url = https://github.com/Freescale/fsl-community-bsp-base.git
+	branch = morty
+[submodule "meta-fsl-bsp-release"]
+	path = meta-fsl-bsp-release
+	url = git://git.freescale.com/imx/meta-fsl-bsp-release.git
+	branch = imx-morty
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = pyro
+[submodule "meta-qt5-extra"]
+	path = meta-qt5-extra
+	url = git://github.com/schnitzeltony/meta-qt5-extra.git
+	branch = morty
+[submodule "meta-browser"]
+	path = meta-browser
+	url = git://github.com/OSSystems/meta-browser.git
+	branch = master
+[submodule "meta-lcc-normal"]
+	path = meta-lcc-normal
+	url = https://github.com/ROJ-ITALY/meta-lcc-normal.git
+	branch = morty
+[submodule "meta-lcc-fbk"]
+	path = meta-lcc-fbk
+	url = https://github.com/ROJ-ITALY/meta-lcc-fbk.git
+	branch = morty
