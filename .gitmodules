@@ -46,3 +46,7 @@
 	path = meta-lcc-fbk
 	url = https://github.com/ROJ-ITALY/meta-lcc-fbk.git
 	branch = morty
+[submodule "meta-lcc-bsp"]
+	path = meta-lcc-bsp
+	url = https://github.com/ROJ-ITALY/meta-lcc-bsp.git
+	branch = morty
