@@ -38,3 +38,7 @@
 	path = meta-roj-platform
 	url = https://github.com/ROJ-ITALY/meta-roj-platform.git
 	branch = morty
+[submodule "base-roj-platform"]
+	path = base-roj-platform
+	url = https://github.com/ROJ-ITALY/base-roj-platform.git
+	branch = morty
