@@ -1,0 +1,52 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = morty
+[submodule "meta-freescale"]
+	path = meta-freescale
+	url = git://git.yoctoproject.org/meta-freescale.git
+	branch = morty
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://github.com/openembedded/meta-openembedded.git
+	branch = morty
+[submodule "fsl-community-bsp-base"]
+	path = fsl-community-bsp-base
+	url = git://github.com/Freescale/fsl-community-bsp-base.git
+	branch = morty
+[submodule "meta-freescale-3rdparty"]
+	path = meta-freescale-3rdparty
+	url = git://github.com/Freescale/meta-freescale-3rdparty.git
+	branch = morty
+[submodule "meta-freescale-distro"]
+	path = meta-freescale-distro
+	url = git://github.com/Freescale/meta-freescale-distro.git
+	branch = morty
+[submodule "meta-browser"]
+	path = meta-browser
+	url = git://github.com/OSSystems/meta-browser.git
+	branch = master
+[submodule "meta-fsl-bsp-release"]
+	path = meta-fsl-bsp-release
+	url = git://git.freescale.com/imx/meta-fsl-bsp-release.git
+	branch = imx-morty
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = pyro
+[submodule "meta-roj-platform"]
+	path = meta-roj-platform
+	url = https://github.com/ROJ-ITALY/meta-roj-platform.git
+	branch = morty-sato
+[submodule "base-roj-platform"]
+	path = base-roj-platform
+	url = https://github.com/ROJ-ITALY/base-roj-platform.git
+	branch = morty-sato
+[submodule "meta-oracle-java"]
+	path = meta-oracle-java
+	url = git://git.yoctoproject.org/meta-oracle-java.git
+	branch = morty
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = git://git.openembedded.org/openembedded-core.git
+	branch = morty
