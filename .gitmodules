@@ -26,10 +26,6 @@
 	path = meta-browser
 	url = git://github.com/OSSystems/meta-browser.git
 	branch = master
-[submodule "meta-fsl-bsp-release"]
-	path = meta-fsl-bsp-release
-	url = git://git.freescale.com/imx/meta-fsl-bsp-release.git
-	branch = imx-morty
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
