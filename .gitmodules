@@ -38,3 +38,7 @@
 	path = base-roj-platform
 	url = https://github.com/ROJ-ITALY/base-roj-platform.git
 	branch = morty
+[submodule "meta-fsl-bsp-release"]
+	path = meta-fsl-bsp-release
+	url = https://source.codeaurora.org/external/imx/meta-fsl-bsp-release
+	branch = imx-morty
