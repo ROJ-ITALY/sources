@@ -46,3 +46,7 @@
 	path = openembedded-core
 	url = git://git.openembedded.org/openembedded-core.git
 	branch = morty
+[submodule "meta-fsl-bsp-release"]
+	path = meta-fsl-bsp-release
+	url = https://source.codeaurora.org/external/imx/meta-fsl-bsp-release
+	branch = imx-morty
