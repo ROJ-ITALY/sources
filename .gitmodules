@@ -22,10 +22,6 @@
 	path = fsl-community-bsp-base
 	url = https://github.com/Freescale/fsl-community-bsp-base.git
 	branch = morty
-[submodule "meta-fsl-bsp-release"]
-	path = meta-fsl-bsp-release
-	url = git://git.freescale.com/imx/meta-fsl-bsp-release.git
-	branch = imx-morty
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
