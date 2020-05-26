@@ -24,7 +24,7 @@
 	branch = morty
 [submodule "meta-fsl-bsp-release"]
 	path = meta-fsl-bsp-release
-	url = git://git.freescale.com/imx/meta-fsl-bsp-release.git
+	url = https://source.codeaurora.org/external/imx/meta-fsl-bsp-release
 	branch = imx-morty
 [submodule "meta-qt5"]
 	path = meta-qt5
