@@ -1,52 +1,52 @@
 [submodule "poky"]
 	path = poky
-	url = git://git.yoctoproject.org/poky.git
+	url = git@github.com:yoctoproject/poky.git
 	branch = thud
 [submodule "meta-freescale"]
 	path = meta-freescale
-	url = git://git.yoctoproject.org/meta-freescale.git
+	url = git@github.com:Freescale/meta-freescale.git
 	branch = thud
 [submodule "meta-openembedded"]
 	path = meta-openembedded
-	url = git://github.com/openembedded/meta-openembedded.git
+	url = git@github.com:openembedded/meta-openembedded.git
 	branch = thud
 [submodule "fsl-community-bsp-base"]
 	path = fsl-community-bsp-base
-	url = git://github.com/Freescale/fsl-community-bsp-base.git
+	url = git@github.com:Freescale/fsl-community-bsp-base.git
 	branch = thud
 [submodule "meta-freescale-3rdparty"]
 	path = meta-freescale-3rdparty
-	url = git://github.com/Freescale/meta-freescale-3rdparty.git
+	url = git@github.com:Freescale/meta-freescale-3rdparty.git
 	branch = thud
 [submodule "meta-freescale-distro"]
 	path = meta-freescale-distro
-	url = git://github.com/Freescale/meta-freescale-distro.git
+	url = git@github.com:Freescale/meta-freescale-distro.git
 	branch = thud
 [submodule "meta-browser"]
 	path = meta-browser
-	url = git://github.com/OSSystems/meta-browser.git
+	url = git@github.com:OSSystems/meta-browser.git
 	branch = master
 [submodule "meta-fsl-bsp-release"]
 	path = meta-fsl-bsp-release
-	url = https://source.codeaurora.org/external/imx/meta-fsl-bsp-release.git
+	url = git@github.com:nxp-imx/meta-fsl-bsp-release.git
 	branch = thud-4.19.35-1.0.0
 [submodule "meta-qt5"]
 	path = meta-qt5
-	url = https://github.com/meta-qt5/meta-qt5.git
+	url = git@github.com:meta-qt5/meta-qt5.git
 	branch = thud
 [submodule "meta-rust"]
 	path = meta-rust
-	url = git://github.com/meta-rust/meta-rust.git
+	url = git@github.com:meta-rust/meta-rust.git
 	branch = master
 [submodule "meta-timesys"]
 	path = meta-timesys
-	url = git://github.com/TimesysGit/meta-timesys.git
+	url = git@github.com:TimesysGit/meta-timesys.git
 	branch = thud
 [submodule "meta-roj-platform"]
 	path = meta-roj-platform
-	url = https://github.com/ROJ-ITALY/meta-roj-platform.git
+	url = git@github.com:ROJ-ITALY/meta-roj-platform.git
 	branch = thud
 [submodule "base-roj-platform"]
 	path = base-roj-platform
-	url = https://github.com/ROJ-ITALY/base-roj-platform.git
+	url = git@github.com:ROJ-ITALY/base-roj-platform.git
 	branch = thud
